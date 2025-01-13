@@ -16,7 +16,7 @@ html {
 }
 
 p {
-  color: rgb(85, 85, 85);
+  /* color: rgb(85, 85, 85); */
 }
 
 /* TRANSITION */
@@ -390,7 +390,7 @@ article .icon {
   color: black;
   border-color: rgb(163, 163, 163);
 }
-
+ 
 .video-popup {
   display: none;
   position: fixed;
